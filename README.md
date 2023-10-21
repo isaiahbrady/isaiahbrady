@@ -7,4 +7,4 @@ Cybersecurity Professional</h1>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/isaiahbrady/Cloud-SOC)
  
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/isaiahbrady/Active-Directory-Lab)
+  - [Virtual Box Active Directory Lab](https://github.com/isaiahbrady/Active-Directory-Lab)
