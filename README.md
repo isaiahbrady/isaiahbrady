@@ -1,6 +1,5 @@
-<h1>Hi, I'm Isaiah! 
-Cybersecurity Professional</h1>
-
+<h1>Hi, I'm Isaiah!  
+Cybersecurity Analyst</h1>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Cloud Project </b>
