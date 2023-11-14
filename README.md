@@ -9,7 +9,7 @@ Cybersecurity Analyst</h1>
   - [Virtual Box Active Directory Lab](https://github.com/isaiahbrady/Active-Directory-Lab)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/isaiahbrady/Active-Directory-Lab)
+  - [osTicket: Prerequisites and Installation](https://github.com/isaiahbrady/osTicket-Prereqs-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/isaiahbrady/Active-Directory-Lab)
   - [Virtual Box Active Directory Lab](https://github.com/isaiahbrady/Active-Directory-Lab)
  
