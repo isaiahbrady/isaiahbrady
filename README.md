@@ -10,8 +10,8 @@ Cybersecurity Analyst</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/isaiahbrady/osTicket-Prereqs-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/isaiahbrady/Active-Directory-Lab)
-  - [Virtual Box Active Directory Lab](https://github.com/isaiahbrady/Active-Directory-Lab)
+  - [osTicket: Post-Installation Configuration](https://github.com/isaiahbrady/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/isaiahbrady/ticket-lifecycle)
  
  - <b>Microsoft Azure</b>
     -   [Configuring Active Directory within Azure VMs](https://github.com/isaiahbrady/Active-Directory-Lab)
